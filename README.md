@@ -3,7 +3,7 @@
 - 👀 I’m interested in AI engineering, LLM applications, and developer tools.
 - 🌱 I’m currently learning LLM system design, TypeScript backend architecture, and AI workflow orchestration.
 - 💞️ I’m looking to collaborate on open-source AI projects, especially LLM DSL, agent frameworks, and workflow engines.
-- 📫 How to reach me: [you can add email / GitHub issues / WeChat if needed]
+- 📫 How to reach me: liwenli204@gmail.com 
 
 ---
 
